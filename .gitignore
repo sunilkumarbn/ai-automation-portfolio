@@ -1,0 +1,7 @@
+﻿venv/
+__pycache__/
+*.pyc
+*.db
+vector_store/
+vector_store_tmp/
+.vscode/
